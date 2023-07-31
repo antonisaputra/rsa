@@ -185,7 +185,7 @@ if (isset($_POST['btnencrypt'])) {
             }
         }
     </style>
-    <title>Hello, world!</title>
+    <title>Cryptografi RSA</title>
 </head>
 
 <body>
